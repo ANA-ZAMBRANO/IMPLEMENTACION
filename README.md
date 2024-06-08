@@ -5,16 +5,16 @@
 ![image](https://github.com/ANA-ZAMBRANO/IMPLEMENTACION/assets/169195758/bfec9136-ed54-4d88-beb3-821902492b02)
 
 MenuBar
-Se crea una MenuBar para representar la barra de menú principal.
+Se creo una MenuBar para representar la barra de menú principal.
 
 Menus
-Se agregan tres menús principales: "Archivo", "Editar" y "Ayuda".
+Se agrego tres menús principales: "Archivo", "Editar" y "Ayuda".
 
  MenuItems
  Dentro de cada menú principal se añaden MenuItem correspondientes a las diferentes acciones que el usuario puede realizar.
 
 Separadores
-Se utilizan  SeparatorMenuItem para organizar visualmente los elementos dentro de cada menú.
+Se utilizo  SeparatorMenuItem para organizar visualmente los elementos dentro de cada menú.
 
 Acciones
  Se definen acciones para cada elemento de menú utilizando expresiones lambda. Estas acciones se ejecutan cuando el usuario selecciona una opción del menú.
