@@ -4,22 +4,22 @@
 ![image](https://github.com/ANA-ZAMBRANO/IMPLEMENTACION/assets/169195758/ffb5223b-e619-40ef-b441-502d781f79bd)
 ![image](https://github.com/ANA-ZAMBRANO/IMPLEMENTACION/assets/169195758/bfec9136-ed54-4d88-beb3-821902492b02)
 
-MenuBar
+MenuBar:
 Se creo una MenuBar para representar la barra de menú principal.
 
-Menus
+Menus:
 Se agrego tres menús principales: "Archivo", "Editar" y "Ayuda".
 
- MenuItems
+ MenuItems:
  Dentro de cada menú principal se añaden MenuItem correspondientes a las diferentes acciones que el usuario puede realizar.
 
-Separadores
+Separadores:
 Se utilizo  SeparatorMenuItem para organizar visualmente los elementos dentro de cada menú.
 
-Acciones
+Acciones:
  Se definen acciones para cada elemento de menú utilizando expresiones lambda. Estas acciones se ejecutan cuando el usuario selecciona una opción del menú.
  
-Layout
+Layout:
  Se utiliza un BorderPane para organizar la MenuBar en la parte superior de la ventana, cumpliendo así con el requisito de diseño de la interfaz.
 
 el código proporcionado desarrolla una interfaz gráfica de usuario en JavaFX que incluye una barra de menú con varias opciones y submenús, permitiendo al usuario realizar diferentes acciones a través de estos menús, y cumple con todos los requisitos especificado.
